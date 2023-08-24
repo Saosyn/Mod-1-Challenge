@@ -21,9 +21,21 @@
     display: inline-block;
     right: auto;
 }
+a {
+    text-decoration: none;
+    color: white;
+}
 .menu-links {
-    font-size: 24px;
-    float: right;
+    font-size: 20px;
+    display: flex;
+    padding: 10px;
+    z-index: 1;
+    color: black;
+    position: absolute;
+    float: inline-end;
+    top: 30px;
+    right: 70px;
+    list-style-type: none;
 
 }
 body {
@@ -34,7 +46,7 @@ body {
     width: 100%;
     padding: auto;
     position: relative;
-    top: -100px;
+    margin-top: auto;
 }
 
 .SEO {
