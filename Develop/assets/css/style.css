@@ -1,0 +1,122 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.header {
+    font-size: 48px;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(88, 119, 187, 0.863);
+    color: aliceblue;
+}
+
+.seo-header {
+    color: rgb(218, 247, 247);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.div ul {
+    position: relative;
+    display: inline-block;
+    right: auto;
+}
+.menu-links {
+    font-size: 24px;
+    float: right;
+
+}
+body {
+    background-color: antiquewhite;
+}
+#top-picture {
+    height: 100%;
+    width: 100%;
+    padding: auto;
+    position: relative;
+    top: -100px;
+}
+
+.SEO {
+    box-sizing: border-box;
+    max-height: 600px;  
+    padding: 10px;
+    margin: 10px;
+    background-color: rgba(7, 56, 192, 0.76);
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 80%;
+    float: left;
+}
+
+.orm {
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgba(7, 56, 192, 0.76);
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 80%;
+    float: left;
+} 
+
+.smm {
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgba(7, 56, 192, 0.76);
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 80%;
+    float: left;
+}
+
+.right-side-menu {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgba(7, 56, 192, 0.76);
+    color: aliceblue;
+    max-width: 18%;
+    max-height: 800px;
+    align-items: center;
+}
+
+#search-engine-optimization-picture {
+    max-width: 225px;
+    max-height: 225px;
+    float: left;
+    margin: 10px;
+}
+
+#online-reputation-management-picture {
+    max-width: 225px;
+    max-height: 225px;
+    float: right;
+    margin: 10px;
+}
+
+#social-media-marketing-picture {
+    max-width: 225px;
+    max-height: 225px;
+    float: left;
+    margin: 10px;
+}
+
+#lead-generation-picture {
+    max-width: 125px;
+    max-height: 125px;
+}
+
+#brand-awareness-picture {
+    max-width: 125px;
+    max-height: 125px;
+}
+
+#cost-management-picture {
+    max-width: 125px;
+    max-height: 125px;
+}
